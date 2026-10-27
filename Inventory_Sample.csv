@@ -1,0 +1,5 @@
+SKU,ItemName,Supplier,CurrentStock,ReorderPoint,TargetStock
+SKU-1001,Wireless Mouse,Contoso Supplies,5,10,30
+SKU-1002,USB Keyboard,Contoso Supplies,30,10,35
+SKU-1003,HDMI Cable,Northwind Traders,10,8,20
+SKU-1004,Laptop Stand,Fabrikam Office,10,7,15
